@@ -1,1 +1,1 @@
-# AJAX-Pagination
+# Pagination with JQuery-Ajax
